@@ -1,0 +1,2 @@
+# Calculating-Credit-Risk-Behavioral-AI-for-Smarter-Lending
+Built a credit-risk model on 58,645 borrowers and 101,915 transactions using Random Forest, behavioral features and 5-fold validation. Achieved 0.93 ROC-AUC and uncovered a 30.5× higher default likelihood for renters, with 95.7% default risk among high-DTI renters, driving a housing-adjusted DTI policy.
